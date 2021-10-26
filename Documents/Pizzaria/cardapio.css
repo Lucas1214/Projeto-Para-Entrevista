@@ -1,0 +1,31 @@
+img#pizzas {
+  height: 50%;
+  width: 80%;
+margin:  30px 30px 30px 50px;
+}
+img#bebidas02 {
+  height: 50%;
+  width: 80%;
+margin:  30px 30px 30px 50px;
+  }
+span#pizza {
+  height: 40px;
+  width: 40px;
+  color: #ffffff;
+  padding: 100px;
+  font-size: 50px;
+  text-align: center;
+}
+span#bebidas {
+  height: 40px;
+  width: 40px;
+  color: #ffffff;
+  padding: 100px;
+  font-size: 50px;
+  text-align: center; 
+}
+body {
+  background-image: url('_imagens/cardapiofundo.jpg');
+  
+}
+

@@ -1,0 +1,14 @@
+#textos {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: Arial, Sans-Serif;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  
+}
+body {
+
+background-image: url('_imagens/fundo03.jpg');
+}
